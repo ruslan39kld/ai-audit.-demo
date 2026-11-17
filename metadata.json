@@ -1,0 +1,6 @@
+{
+  "name": "AI Audit Platform",
+  "description": "Профессиональная система AI-аудита проектов и компаний: рабочие места, админка, учёт клиентов и аудитов, загрузка документов, настраиваемая методика скоринга, отчёты.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
